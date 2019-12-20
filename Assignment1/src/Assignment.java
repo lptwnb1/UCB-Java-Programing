@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class HelloWorld {
+public class Assignment {
 
 	public static void main(String [] argv) throws IOException
 	{
